@@ -35,4 +35,4 @@ Este projeto é um estudo de caso prático de Business Intelligence (BI) para o 
 Em Andamento
 
 ## 🔗 Sobre o Autor
-[Seu Nome/GitHub Profile Link]
+https://github.com/carlosmendesjmc
